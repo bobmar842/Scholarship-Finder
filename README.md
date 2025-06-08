@@ -1,17 +1,17 @@
-# 🎓 Scholarship Finder Tool
+# 🎓 ScholarScope
 
 ## 🧩 Problem Statement
 
-Finding relevant scholarships is often time-consuming and overwhelming for students. Many available opportunities are scattered across various platforms, with differing eligibility criteria, deadlines, and unclear application processes. Our Scholarship Finder tool aims to **simplify and automate** this search, ensuring that students discover scholarships that truly match their academic background, location, and personal needs.
+Finding scholarships is often a time-consuming and confusing task for students. Opportunities are spread across multiple platforms, each with its own eligibility rules, deadlines, and vague application steps. The Scholarship Finder tool is designed to streamline and automate this process, helping students uncover scholarships that closely align with their academic background, location, and personal criteria.
 
 ---
 
 ## 🎯 Goals
 
-- Automatically **scrape and aggregate** scholarships from multiple trusted sources.
-- Enable students to input their **personal profiles** (course, GPA, location, etc.) to receive tailored results.
-- Use a **matching algorithm** to sort and recommend scholarships based on relevance and urgency.
-- Present a clean, accessible UI for browsing and applying to scholarships.
+-Automatically scrape and compile scholarships from several trusted sources.
+-Allow students to create a personalized profile (course, GPA, region, etc.) to receive filtered results.
+-Implement a smart matching algorithm to rank scholarships based on relevance and urgency.
+-Offer a clean, intuitive UI for browsing, filtering, and applying to scholarships.
 
 ---
 
